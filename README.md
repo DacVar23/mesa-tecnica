@@ -13,3 +13,6 @@
 > [!IMPORTANT]
 > Siempre verificar que se cuenten con todas los paquetes actualizados
 > A programar!
+
+> [!CAUTION]
+> Cuando comiencen a trabajar creen su propia rama
