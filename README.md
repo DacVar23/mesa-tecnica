@@ -10,14 +10,14 @@
 > A programar!
 ## 2. Instalación de paquetes e iniciar el servidor
 - Ubicque la carpeta `cd mesa-tecnica`
-- Instale paquetes `npm i`
+- Instale paquetes `npm install`
 - Inicie el servidor `npm run dev`
 
 
 > [!CAUTION]
 > Cuando comiencen a trabajar creen su propia rama
 ## 3. Para crear una rama a partir de main
-- Ubicque su parte inferior izquierda "main", de click
-- Se abrira arriba las opciones, seleccione "+ Crear nueva rama a partir de..."
-- Seleccione "origin/main rama remota"
-- Escriba un nombre clave
+- Ubique su parte inferior izquierda "main", da click
+- Se abrirá arriba las opciones, seleccione "+ Crear nueva rama a partir de..."
+- Seleccione "main"
+- El nombre clave tiene que ser el mismo del diseño de FIGMA "Footer" por ejemplo
