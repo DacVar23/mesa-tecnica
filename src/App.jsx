@@ -4,7 +4,7 @@ function App() {
 
   return (      
       <div >
-        <h1>HOla</h1>
+        <h1>Mesa tecnica de cafés especiales del valle</h1>
       </div>
   )
 }
