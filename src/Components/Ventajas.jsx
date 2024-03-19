@@ -41,7 +41,6 @@ export default function Ventajas() {
                     titulo="Concursos de café"
                     descripcion="En nuestros concursos de café en pergamino potenciamos la producción de cafés del valle."
                 />
-
             </div>
 
         </div>
