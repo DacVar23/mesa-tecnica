@@ -1,0 +1,95 @@
+
+.container-home{
+    padding-top: 70px;
+    width: 100%;
+    overflow: hidden;
+    background: linear-gradient(0deg, rgba(51, 35, 36, 0.60) 0%, rgba(51, 35, 36, 0.60) 100%), url(https://res.cloudinary.com/dz1rjmgc8/image/upload/v1710364558/Grupo_xfuh4o.jpg) lightgray 50% / cover no-repeat ;
+
+}
+
+.container-home img {
+    width: 100%; 
+    height: 40rem; 
+    object-fit: cover;
+    position: absolute;
+    z-index: -1;
+}
+.container-tittle{
+    display: flex;
+    padding: 0px 350px;
+    padding-top: 10rem;
+    flex-direction: column;
+    align-items: center;
+    gap: 0px;
+    
+}
+h1{
+    color: var(--mesatecnica-paleta-Color-4, #F8DCC5);
+    text-align: center;
+    font-family: Raleway;
+    font-size: 65px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 120%; /* 84px */
+    text-transform: uppercase;
+}
+.text-tittle{
+    color: var(--mesatecnica-paleta-Color-4, #F8DCC5);
+    text-align: center;
+    font-family: Raleway;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 100%; 
+}
+.container-subtittle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    align-self: stretch;
+}
+.text-subtittle{
+    
+    color: var(--mesatecnica-paleta-Color-4, #F8DCC5);
+    text-align: center;
+    font-family: Raleway;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+@media (max-width:600px){
+    h1{
+        font-size: 40px;
+    }
+    .container-tittle{
+        display: flex;
+        padding: 0px 20px;
+        padding-top: 2rem;
+        flex-direction: column;
+        align-items: center;
+        gap: 0px;
+    }
+    .text-tittle{
+        font-size: 30px;
+    }
+
+    .container-subtittle{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 30px;
+        align-self: stretch;
+    }
+    .text-subtittle{
+        color: var(--mesatecnica-paleta-Color-4, #F8DCC5);
+        text-align: center;
+        font-family: Raleway;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: normal;
+    }
+}
