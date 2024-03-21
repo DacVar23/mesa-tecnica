@@ -72,3 +72,13 @@ h3 {
     margin: 0;
 
 }
+
+@media (max-width: 600px){
+    .n-ventajas-objetivos {
+        padding: 39px 30px 60px 30px;
+    }
+
+    .n-ventajas-contenedor-tarjetas{
+        padding: 0px 30px;
+    }
+}
