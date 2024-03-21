@@ -1,11 +1,13 @@
 import './App.css'
-import Ventajas from './components/Ventajas'
+import Header from './Components/Header'
+
+
 function App() {
 
   return (      
       <div >
-        <h1>Mesa tecnica de cafés especiales del valle</h1>
-        <Ventajas></Ventajas>
+       <Header/>
+
       </div>
   )
 }
