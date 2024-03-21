@@ -3,6 +3,7 @@ import Header from './Components/Header'
 import Home from './Components/Home'
 import Ventajas from "./Components/Ventajas"
 import Aliados from "./Components/Aliados/Aliados"
+import Imagenes from './Components/Imagenes'
 
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
        <Home/>
        <Ventajas/>
        <Aliados/>
+       {/* <Imagenes/> */}
 
       </div>
   )

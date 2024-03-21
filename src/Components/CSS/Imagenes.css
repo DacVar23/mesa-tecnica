@@ -1,0 +1,25 @@
+.n-imagenes-contenedor{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    align-self: center;
+
+}
+.n-imagenes-img1{
+    height: 350px;
+
+    border-radius: 10px;
+    
+Object-fit: cover;
+
+    
+  
+
+}
+
+.n-img-1{
+
+    display: flex;
+    flex-wrap: wrap;
+}

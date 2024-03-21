@@ -7,12 +7,11 @@
 .n-Aliados-Tarjeta {
 
     display: flex;
-    height: 50px;
     padding: 20px;
     align-items: center;
 
     border-radius: 65px;
-    background: var(--mesatecnica-paleta-Color-4, #F8DCC5);
+    background:  #F8DCC5;
     box-shadow: 10px 6px 20px 0px rgba(0, 0, 0, 0.50);
 
 }
@@ -32,6 +31,7 @@ width: auto;
     gap: 30px;
     align-self: stretch;
     flex-wrap: wrap;
+
 
 }
 .n-Aliados-titulo {

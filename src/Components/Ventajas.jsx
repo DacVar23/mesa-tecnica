@@ -5,6 +5,7 @@ import educacion from "../Assets/Educacion.svg"
 import rueda from "../Assets/Rueda.svg"
 import aliados from "../Assets/Aliados.svg"
 import concursos from  "../Assets/Concursos.svg"
+
 export default function Ventajas() {
 
 

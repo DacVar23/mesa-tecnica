@@ -32,6 +32,8 @@ h1{
     font-weight: 900;
     line-height: 120%; /* 84px */
     text-transform: uppercase;
+
+
 }
 .text-tittle{
     color: var(--mesatecnica-paleta-Color-4, #F8DCC5);
