@@ -15,7 +15,7 @@ function App() {
       <Home />
       <Ventajas />
       <Aliados/>
-      {/* <Imagenes/> */}
+      <Imagenes/>
       <Footer />
     </div>
   )

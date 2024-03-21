@@ -10,7 +10,7 @@ export default function Header() {
             <ul className="n-header-opciones">
                 <li><a href="#Objetivo">OJETIVO</a></li>
                 <li><a href="#Aliados"> ALIADOS</a></li>
-                {/* <li> <a href="#Eventos">EVENTOS</a> </li> */}
+                <li> <a href="#Eventos">EVENTOS</a> </li>
             </ul>
         </header>
     )

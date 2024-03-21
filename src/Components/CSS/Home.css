@@ -1,9 +1,10 @@
 
 .container-home{
     padding-top: 70px;
+    padding-bottom: 70px;
     width: 100%;
     overflow: hidden;
-    background: linear-gradient(0deg, rgba(51, 35, 36, 0.60) 0%, rgba(51, 35, 36, 0.60) 100%), url(https://res.cloudinary.com/dz1rjmgc8/image/upload/v1710364558/Grupo_xfuh4o.jpg) lightgray 50% / cover no-repeat ;
+    background: linear-gradient(0deg, rgba(51, 35, 36, 0.60) 0%, rgba(51, 35, 36, 0.60) 100%), url(https://res.cloudinary.com/dz1rjmgc8/image/upload/v1711044720/MesaTecnica_g61f7a.jpg) lightgray 50% / cover no-repeat ;
 
 }
 
@@ -16,7 +17,7 @@
 }
 .container-tittle{
     display: flex;
-    padding: 0px 350px;
+    padding: 0px 250px;
     padding-top: 10rem;
     flex-direction: column;
     align-items: center;
@@ -27,7 +28,7 @@ h1{
     color: var(--mesatecnica-paleta-Color-4, #F8DCC5);
     text-align: center;
     font-family: Raleway;
-    font-size: 65px;
+    font-size: 50px;
     font-style: normal;
     font-weight: 900;
     line-height: 120%; /* 84px */
@@ -39,11 +40,13 @@ h1{
     color: var(--mesatecnica-paleta-Color-4, #F8DCC5);
     text-align: center;
     font-family: Raleway;
-    font-size: 50px;
+    font-size: 35px;
     font-style: normal;
     font-weight: 600;
     line-height: 100%; 
+   margin-bottom: 0;
 }
+
 .container-subtittle{
     display: flex;
     justify-content: center;
@@ -56,7 +59,7 @@ h1{
     color: var(--mesatecnica-paleta-Color-4, #F8DCC5);
     text-align: center;
     font-family: Raleway;
-    font-size: 45px;
+    font-size: 25px;
     font-style: normal;
     font-weight: 600;
     line-height: normal;
@@ -64,12 +67,12 @@ h1{
 
 @media (max-width:600px){
     h1{
-        font-size: 40px;
+        font-size: 30px;
     }
     .container-tittle{
         display: flex;
-        padding: 0px 20px;
-        padding-top: 2rem;
+        padding: 100px 20px 0 20px;
+     
         flex-direction: column;
         align-items: center;
         gap: 0px;

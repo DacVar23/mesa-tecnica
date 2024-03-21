@@ -81,7 +81,7 @@ height: 80px;
 
 @media (max-width:600px){
     .footerContainer{
-        padding: 0px 50px;
+        padding: 30px 50px;
     }
 
 }

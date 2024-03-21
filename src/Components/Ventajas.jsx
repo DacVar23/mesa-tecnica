@@ -15,7 +15,7 @@ export default function Ventajas() {
         <div className="n-ventajas" id="Objetivo">
 
             <div className="n-ventajas-objetivos">
-                <h2>NUESTRO OBJETIVO</h2>
+                <h3>NUESTRO OBJETIVO</h3>
                 <p>Como mesa técnica enfocada hacia el café especial, buscamos visibilizar, posicionar
                     y fortalecer el café especial producido en todo el valle del cauca a nivel mundial.</p>
                 <p>Damos una oportunidad para que pequeños productores muestren sus productos a compradores del Valle del Cauca.</p>
