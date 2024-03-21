@@ -29,9 +29,17 @@
 
 
 }
+
 .n-header-opciones>li {
 
 margin: 0 10px 0 10px;
 
 }
+.n-header-opciones>li>a {
+    color: #F8DCC5;
+    text-decoration: none;
+
+    
+    
+    }
 

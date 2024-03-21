@@ -5,7 +5,7 @@ import AliadosTarjeta from "./AliadosTarjeta";
 export default function Aliados() {
 
     return (
-        <section className="n-Aliados-contenedor">
+        <div className="n-Aliados-contenedor" id="Aliados">
             <h2 className="n-Aliados-titulo">NUESTROS ALIADOS</h2>
             <div className="n-contenedor-tarjetas-aliados">
                 <AliadosTarjeta
@@ -65,7 +65,7 @@ export default function Aliados() {
             </div>
 
 
-        </section>
+        </div>
     )
 
 

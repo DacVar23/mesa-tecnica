@@ -12,7 +12,7 @@ export default function Ventajas() {
 
     return (
 
-        <div className="n-ventajas">
+        <div className="n-ventajas" id="Objetivo">
 
             <div className="n-ventajas-objetivos">
                 <h2>NUESTRO OBJETIVO</h2>

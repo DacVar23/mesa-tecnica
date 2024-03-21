@@ -8,8 +8,8 @@ function Footer() {
   return (
     <div className='footerContainer'>
     <div className='footerElements'>
-        <div>
-            <img className='footerImg'></img>
+        <div className='footerImgContainer'>
+            <img className='footerImg' src='https://res.cloudinary.com/dz1rjmgc8/image/upload/v1710364213/LogoMesaTecnica-03_vaknei.png'></img>
             <p className='txtFooter'>Buscamos visibilizar la producción de café especial del valle del cauca al rededor de todo el mundo. </p>
         </div>
         <div className='containerNuestrasRedes'>

@@ -14,7 +14,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 6rem;
+    gap: 3rem;
     flex-wrap: wrap;
 }
 .txtFooter{
@@ -33,11 +33,26 @@
     color: var(--mesatecnica-paleta-Color-4, #F8DCC5);
     text-align: center;
     font-family: Raleway;
-    font-size: 30px;
+    font-size: 25px;
     font-style: normal;
     font-weight: 900;
     line-height: normal;
 }
+.footerImg{
+
+height: 80px;
+
+}
+
+.footerImgContainer{
+
+    display: flex;
+    /* align-content: center; */
+    flex-direction: column;
+    align-items: center;
+}
+
+
 .containerNuestrasRedes{
     display: flex;
     flex-direction: column;
